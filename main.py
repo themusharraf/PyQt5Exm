@@ -89,7 +89,7 @@ class Window(QDialog):
 # main method
 if __name__ == '__main__':
 
-	# create pyqt5 app
+	# create pyqt5 apps
 	app = QApplication(sys.argv)
 
 	# create the instance of our Window
